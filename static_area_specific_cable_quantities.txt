@@ -1,0 +1,11 @@
+-;Area specific cable quantity;pcs;Mean;69.47813695909669;17.88423480226594;27.816770301839725;110.04266317161029
+Area type;Area specific cable quantity;pcs;Mean;2.2419737979019496;0.6658293279855511;0.9995801542550118;3.7997825769992573
+Area squares;Area specific cable quantity;pcs;Linear regression;14.049446105957031;3.494687795639038;7.633401870727539;22.12891387939453
+Area squares, Area type;Area specific cable quantity;pcs;Linear regression;1.4926365613937378;0.4949921667575836;0.8602310419082642;2.735652208328247
+GT, Area squares, Area type, Area type;Area specific cable quantity;pcs;Linear regression;1.4300012588500977;0.46673429012298584;0.8705373406410217;2.6409919261932373
+GT, Area type;Area specific cable quantity;pcs;Linear regression;2.309307098388672;0.5653215050697327;1.50839102268219;3.619119882583618
+Area squares, Area type;Area specific cable quantity;pcs;KNN Regression;0.9630682642157099;0.5646179528258655;0.27081022026085105;2.383193204295734
+GT, Area squares, Area type;Area specific cable quantity;pcs;KNN Regression;0.8570748816562079;0.5330564855913479;0.2458338718756703;2.437021429322577
+GT, Area squares, Area type, Area type;Area specific cable quantity (No through cables, for comparison);pcs;Linear regression;1.144731044769287;0.34508857131004333;0.7510061264038086;2.603269577026367
+GT, Area squares, Area type, Area type;Area specific cable quantity (No through cables, for comparison);pcs;KNN regression;0.5432721217888596;0.3777744489891452;0.178985978381785;1.8179612082906704
+
