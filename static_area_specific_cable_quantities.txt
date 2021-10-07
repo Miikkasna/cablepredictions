@@ -9,3 +9,4 @@ GT, Area squares, Area type;Area specific cable quantity;pcs;KNN Regression;0.85
 GT, Area squares, Area type, Area type;Area specific cable quantity (No through cables, for comparison);pcs;Linear regression;1.144731044769287;0.34508857131004333;0.7510061264038086;2.603269577026367
 GT, Area squares, Area type, Area type;Area specific cable quantity (No through cables, for comparison);pcs;KNN regression;0.5432721217888596;0.3777744489891452;0.178985978381785;1.8179612082906704
 
+GT, Area squares, Area type;Area specific cable quantity;pcs;KNN Regression;0.8589187621359826;0.5631687423201768;0.2448127345752265;2.500603230121695
