@@ -12,3 +12,7 @@ GT, Area squares, Area type, Area type;Area specific cable quantity (No through 
 -;Area specific cable quantity;pcs;Mean;82.73028221510882;23.076684321701993;28.439443814741704;122.08312191479706
 -;Area specific cable quantity;pcs;Mean;13.82375284060049;4.116550661762327;4.399113640111486;20.884838059815742
 Area squares;Area specific cable quantity;pcs;Linear regression;7.326254367828369;1.7004141807556152;3.4156410694122314;11.612913131713867
+-;Area specific cable quantity;pcs;Mean;13.82375284060049;4.116550661762327;4.399113640111486;20.884838059815742
+Area type;Area specific cable quantity;pcs;Mean;2.4895469215892843;0.5474570757184533;1.747724363828694;3.7236131617983426
+Area squares;Area specific cable quantity;pcs;Linear regression;8.381250381469727;2.18479585647583;3.395709753036499;13.404888153076172
+GT, Area squares, Area type, Area type;Area specific cable quantity (No through cables, for comparison);pcs;Linear regression;0.5589651703597824;0.3972530085379397;0.19007324852668409;2.5092326974930903
